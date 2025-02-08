@@ -39,3 +39,9 @@ Through the code might be messy, but as long as it works, that’s what matters,
    pip install pyautogui pillow opencv-python tkinter pynput
    ```
 3. Run the script and start automating!
+
+# Examples
+
+https://github.com/user-attachments/assets/5b54323c-6fc6-4ebf-ae08-1cf495004dc5
+
+https://github.com/user-attachments/assets/4547aa46-96e7-472c-829f-92144a53126b
