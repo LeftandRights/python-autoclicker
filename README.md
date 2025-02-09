@@ -1,7 +1,7 @@
 # Python Tkinter AutoClicker
 ![UI Interface](https://github.com/LeftandRights/python-autoclicker/blob/main/images/interface.png)
 
-Through the code might be messy, but as long as it works, that’s what matters, and it’s free anyway. I’ve added as many features as I could think of, and they should be enough to automate simple tasks based on image detection and more.
+Though the code might be messy, but as long as it works, that’s all what matters, and it’s free anyway. I’ve added as many features as I could think of, and they should be enough to automate simple tasks based on image detection and more.
 
 ## Features
 
